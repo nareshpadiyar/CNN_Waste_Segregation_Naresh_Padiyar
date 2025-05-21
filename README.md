@@ -1,0 +1,2 @@
+# CNN_Waste_Segregation_Naresh_Padiyar
+UpGrad Assignment - CNN_Waste_Segregation
